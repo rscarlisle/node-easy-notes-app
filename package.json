@@ -1,0 +1,25 @@
+{
+  "name": "node-easy-notes-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rscarlisle/node-easy-notes-app.git"
+  },
+  "keywords": [],
+  "author": "Randy Carlisle",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rscarlisle/node-easy-notes-app/issues"
+  },
+  "homepage": "https://github.com/rscarlisle/node-easy-notes-app#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "mongoose": "^5.0.7"
+  }
+}

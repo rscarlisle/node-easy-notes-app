@@ -1,0 +1,20 @@
+{
+  "name": "node-easy-notes-app",
+  "version": "1.0.0",
+  "description": "Never miss a thing in Life. Take notes quickly. Organize and keep track of all your notes.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rscarlisle/node-easy-notes-app.git"
+  },
+  "keywords": "Express" " RestAPI" " MongoDB" "Mongoose" "Notes",
+  "author": "Randy Carlisle",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rscarlisle/node-easy-notes-app/issues"
+  },
+  "homepage": "https://github.com/rscarlisle/node-easy-notes-app#readme"
+}
